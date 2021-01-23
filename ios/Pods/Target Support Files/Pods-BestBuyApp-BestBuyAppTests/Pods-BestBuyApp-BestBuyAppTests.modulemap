@@ -1,0 +1,6 @@
+module Pods_BestBuyApp_BestBuyAppTests {
+  umbrella header "Pods-BestBuyApp-BestBuyAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
