@@ -1,10 +1,9 @@
-import * as React from 'react';
+import * as React from "react";
 
-import Drawer from './src/modules/utils/Drawer';
-import Navigation from './src/modules/utils/Navigation';
+import DrawerNav from "./src/modules/utils/DrawerNav";
 
 function App() {
-  return <Navigation />;
+  return <DrawerNav />;
 }
 
 export default App;
